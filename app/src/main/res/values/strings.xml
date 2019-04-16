@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidFinalProject_NewsFeed</string>
+    <string name="SearchText">Please enter</string>
+    <string name="search_textInput">keywords</string>
+    <string name="newsFeedBut">please click</string>
+    <string name="newsFeedAsyncBackButton">click to go back</string>
+
+</resources>
